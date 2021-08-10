@@ -1,0 +1,3 @@
+rootProject.name = "QBase"
+include ':app'
+include ':base'
